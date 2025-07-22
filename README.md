@@ -286,6 +286,10 @@ This Unity HCI project successfully demonstrates the creation of reusable, inter
 
 The knowledge gained from this project provides a solid foundation for future developments in 3D interfaces, product configurators, video games, and virtual/augmented reality applications.
 
+## Licence
+
+Academic project - Université de Poitiers (2025)
+
 ---
 
 *University of Poitiers - Faculty of Sciences - Computer Science Department - 2025*
